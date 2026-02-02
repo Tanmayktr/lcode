@@ -1,0 +1,33 @@
+name: Daily Random Commit
+
+on:
+  schedule:
+    # This triggers the robot every day at 5:00 AM UTC
+    - cron: '0 5 * * *'
+  workflow_dispatch: # This adds a button so you can test it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Pick random code and commit
+        run: |
+          # 1. Pick a random line from snippets.txt
+          SELECTED_CODE=$(shuf -n 1 snippets.txt)
+          
+          # 2. Add it to a file called log.txt with a timestamp
+          echo "$(date): $SELECTED_CODE" >> log.txt
+          
+          # 3. Tell GitHub who is making the change
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # 4. Save and Push the change
+          git add log.txt
+          git commit -m "Daily update: $(date)"
+          git push
