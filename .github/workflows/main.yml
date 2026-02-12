@@ -24,8 +24,8 @@ jobs:
           echo "$(date): $SELECTED_CODE" >> log.txt
           
           # 3. Tell GitHub who is making the change
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "tanmaykatiyar5@gmail.com"
+          git config --local user.name "TanmayKtr"
           
           # 4. Save and Push the change
           git add log.txt
