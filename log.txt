@@ -18,3 +18,4 @@ Wed Feb 18 06:04:17 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cou
 Thu Feb 19 06:03:09 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Fri Feb 20 05:57:56 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Sat Feb 21 05:47:22 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
+Sun Feb 22 05:56:05 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
