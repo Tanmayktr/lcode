@@ -21,3 +21,4 @@ Sat Feb 21 05:47:22 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/s
 Sun Feb 22 05:56:05 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Mon Feb 23 06:07:39 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
 Tue Feb 24 06:02:51 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
+Wed Feb 25 06:04:39 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
