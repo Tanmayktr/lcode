@@ -23,3 +23,4 @@ Mon Feb 23 06:07:39 UTC 2026: struct Node { int data; Node* next; }; Node* head 
 Tue Feb 24 06:02:51 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Wed Feb 25 06:04:39 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Thu Feb 26 06:02:03 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Fri Feb 27 05:56:39 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
