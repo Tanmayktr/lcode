@@ -27,3 +27,4 @@ Fri Feb 27 05:56:39 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Rever
 Sat Feb 28 05:37:11 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
 Sun Mar  1 05:55:15 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Mon Mar  2 05:57:05 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
+Tue Mar  3 05:54:36 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
