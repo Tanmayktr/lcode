@@ -33,3 +33,4 @@ Thu Mar  5 05:53:50 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cou
 Fri Mar  6 05:51:08 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Sat Mar  7 05:41:05 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Sun Mar  8 05:49:02 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
+Mon Mar  9 06:01:43 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
