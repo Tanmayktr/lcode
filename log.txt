@@ -40,3 +40,4 @@ Thu Mar 12 05:56:15 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: "
 Fri Mar 13 05:54:09 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Sat Mar 14 05:51:53 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Sun Mar 15 06:06:43 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
+Mon Mar 16 06:20:54 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
