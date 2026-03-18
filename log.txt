@@ -42,3 +42,4 @@ Sat Mar 14 05:51:53 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cou
 Sun Mar 15 06:06:43 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Mon Mar 16 06:20:54 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Tue Mar 17 06:02:36 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
+Wed Mar 18 06:05:05 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
