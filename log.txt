@@ -59,3 +59,4 @@ Tue Mar 31 06:17:56 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cou
 Wed Apr  1 06:48:53 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Thu Apr  2 06:13:55 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Fri Apr  3 06:14:08 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Sat Apr  4 06:01:25 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
