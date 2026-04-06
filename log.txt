@@ -61,3 +61,4 @@ Thu Apr  2 06:13:55 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cou
 Fri Apr  3 06:14:08 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Sat Apr  4 06:01:25 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Sun Apr  5 06:15:02 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
+Mon Apr  6 06:56:13 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
