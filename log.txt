@@ -63,3 +63,4 @@ Sat Apr  4 06:01:25 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/s
 Sun Apr  5 06:15:02 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
 Mon Apr  6 06:56:13 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Tue Apr  7 06:20:32 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
+Wed Apr  8 06:22:20 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
