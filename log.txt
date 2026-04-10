@@ -65,3 +65,4 @@ Mon Apr  6 06:56:13 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; 
 Tue Apr  7 06:20:32 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
 Wed Apr  8 06:22:20 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Thu Apr  9 06:22:50 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Fri Apr 10 06:54:30 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cout << "Vector size: " << v.size();
