@@ -72,3 +72,4 @@ Mon Apr 13 07:16:21 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Rever
 Tue Apr 14 06:53:59 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Wed Apr 15 06:56:03 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Thu Apr 16 06:57:41 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
+Fri Apr 17 06:58:34 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
