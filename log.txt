@@ -81,3 +81,4 @@ Wed Apr 22 06:58:46 UTC 2026: struct Node { int data; Node* next; }; Node* head 
 Thu Apr 23 07:02:35 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Fri Apr 24 07:05:21 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Sat Apr 25 06:21:33 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
+Sun Apr 26 07:00:14 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
