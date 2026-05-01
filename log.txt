@@ -86,3 +86,4 @@ Mon Apr 27 07:36:26 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: "
 Tue Apr 28 07:33:01 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Wed Apr 29 07:26:51 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
 Thu Apr 30 07:30:24 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
+Fri May  1 07:27:44 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
