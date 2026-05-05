@@ -90,3 +90,4 @@ Fri May  1 07:27:44 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; 
 Sat May  2 07:02:37 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Sun May  3 07:20:20 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Mon May  4 07:49:17 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
+Tue May  5 07:20:25 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
