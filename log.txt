@@ -98,3 +98,4 @@ Sat May  9 07:11:16 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: "
 Sun May 10 07:27:31 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
 Mon May 11 08:27:19 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
 Tue May 12 07:46:27 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
+Wed May 13 07:53:39 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
