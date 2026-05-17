@@ -101,3 +101,4 @@ Tue May 12 07:46:27 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwi
 Wed May 13 07:53:39 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Thu May 14 07:46:19 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Sat May 16 07:19:24 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
+Sun May 17 07:35:27 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
