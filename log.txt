@@ -103,3 +103,4 @@ Thu May 14 07:46:19 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; 
 Sat May 16 07:19:24 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
 Sun May 17 07:35:27 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Mon May 18 08:48:20 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
+Tue May 19 08:31:45 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
