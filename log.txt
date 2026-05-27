@@ -111,3 +111,4 @@ Sat May 23 07:33:57 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cou
 Sun May 24 07:51:07 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Mon May 25 09:00:50 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cout << "Vector size: " << v.size();
 Tue May 26 08:35:13 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Wed May 27 08:41:04 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
