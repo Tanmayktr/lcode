@@ -115,3 +115,4 @@ Wed May 27 08:41:04 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: "
 Thu May 28 08:47:07 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Fri May 29 08:45:18 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Sat May 30 07:43:04 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
+Sun May 31 08:17:43 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
