@@ -122,3 +122,4 @@ Wed Jun  3 09:57:35 UTC 2026: #include <iostream> using namespace std; int main(
 Thu Jun  4 08:53:46 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cout << "Vector size: " << v.size();
 Fri Jun  5 08:46:03 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Sat Jun  6 07:48:27 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
+Sun Jun  7 08:25:50 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
