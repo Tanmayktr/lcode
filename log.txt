@@ -127,3 +127,4 @@ Mon Jun  8 09:26:18 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; 
 Tue Jun  9 08:33:23 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Wed Jun 10 08:53:22 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Thu Jun 11 09:14:44 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
+Fri Jun 12 09:02:44 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
