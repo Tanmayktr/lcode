@@ -133,3 +133,4 @@ Sun Jun 14 08:42:45 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Rever
 Mon Jun 15 10:57:09 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Tue Jun 16 10:13:40 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Wed Jun 17 09:53:10 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
+Thu Jun 18 09:19:20 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
