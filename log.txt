@@ -136,3 +136,4 @@ Wed Jun 17 09:53:10 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwi
 Thu Jun 18 09:19:20 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Fri Jun 19 09:46:48 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
 Sat Jun 20 08:23:00 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cout << "Vector size: " << v.size();
+Sun Jun 21 08:59:13 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
