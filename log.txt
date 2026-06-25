@@ -140,3 +140,4 @@ Sun Jun 21 08:59:13 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/s
 Mon Jun 22 10:43:32 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Tue Jun 23 08:31:16 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Wed Jun 24 08:25:18 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
+Thu Jun 25 08:25:47 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
