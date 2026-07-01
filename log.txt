@@ -146,3 +146,4 @@ Sat Jun 27 07:51:42 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Rever
 Sun Jun 28 08:25:04 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Mon Jun 29 09:52:38 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
 Tue Jun 30 08:32:30 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Wed Jul  1 08:51:09 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
