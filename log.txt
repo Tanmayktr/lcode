@@ -151,3 +151,4 @@ Thu Jul  2 08:13:58 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cou
 Fri Jul  3 08:13:00 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cout << "Vector size: " << v.size();
 Sat Jul  4 07:50:02 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Sun Jul  5 08:05:31 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
+Mon Jul  6 09:02:59 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
