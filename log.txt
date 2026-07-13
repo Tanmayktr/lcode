@@ -158,3 +158,4 @@ Thu Jul  9 08:31:48 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwi
 Fri Jul 10 08:26:34 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Sat Jul 11 07:14:23 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Sun Jul 12 07:30:33 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Mon Jul 13 08:19:53 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
