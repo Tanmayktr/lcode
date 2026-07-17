@@ -162,3 +162,4 @@ Mon Jul 13 08:19:53 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: "
 Tue Jul 14 07:12:03 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Wed Jul 15 07:18:18 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Thu Jul 16 07:25:33 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
+Fri Jul 17 07:20:45 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
