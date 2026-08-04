@@ -180,3 +180,4 @@ Fri Jul 31 07:53:40 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Rever
 Sat Aug  1 07:29:59 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Sun Aug  2 07:33:55 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Mon Aug  3 08:33:24 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
+Tue Aug  4 07:42:43 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
