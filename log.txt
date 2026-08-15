@@ -191,3 +191,4 @@ Tue Aug 11 05:55:17 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cou
 Wed Aug 12 06:17:50 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Thu Aug 13 06:19:36 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Fri Aug 14 06:17:30 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
+Sat Aug 15 05:29:24 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
