@@ -202,3 +202,4 @@ Sat Aug 22 05:31:40 UTC 2026: struct Node { int data; Node* next; }; Node* head 
 Sun Aug 23 05:33:04 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Mon Aug 24 05:41:29 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Tue Aug 25 05:35:42 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
+Wed Aug 26 05:38:16 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
