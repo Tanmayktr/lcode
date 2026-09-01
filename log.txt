@@ -208,3 +208,4 @@ Fri Aug 28 17:14:07 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cou
 Sat Aug 29 11:31:34 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
 Sun Aug 30 10:24:11 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Mon Aug 31 11:28:42 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Tue Sep  1 09:51:00 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
