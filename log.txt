@@ -210,3 +210,4 @@ Sun Aug 30 10:24:11 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/s
 Mon Aug 31 11:28:42 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Tue Sep  1 09:51:00 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Wed Sep  2 09:22:48 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
+Thu Sep  3 09:32:48 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
