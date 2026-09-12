@@ -219,3 +219,4 @@ Tue Sep  8 09:27:22 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cou
 Wed Sep  9 09:29:21 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cout << "Vector size: " << v.size();
 Thu Sep 10 09:28:26 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
 Fri Sep 11 09:26:07 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
+Sat Sep 12 09:07:48 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
