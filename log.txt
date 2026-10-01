@@ -238,3 +238,4 @@ Sun Sep 27 10:26:21 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << 
 Mon Sep 28 11:34:02 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Tue Sep 29 11:12:46 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Wed Sep 30 11:01:46 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Thu Oct  1 11:27:56 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
