@@ -240,3 +240,4 @@ Tue Sep 29 11:12:46 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << 
 Wed Sep 30 11:01:46 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Thu Oct  1 11:27:56 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Fri Oct  2 10:58:31 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
+Sat Oct  3 10:17:13 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
