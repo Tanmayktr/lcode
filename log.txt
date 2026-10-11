@@ -248,3 +248,4 @@ Wed Oct  7 11:37:37 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; 
 Thu Oct  8 11:52:25 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Fri Oct  9 11:44:12 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Sat Oct 10 11:02:02 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
+Sun Oct 11 11:19:05 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cout << "Vector size: " << v.size();
