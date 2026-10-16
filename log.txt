@@ -253,3 +253,4 @@ Mon Oct 12 12:54:48 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: "
 Tue Oct 13 12:32:21 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Wed Oct 14 09:59:41 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Thu Oct 15 09:41:34 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
+Fri Oct 16 09:35:11 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
