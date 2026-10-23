@@ -260,3 +260,4 @@ Mon Oct 19 10:36:39 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/s
 Tue Oct 20 09:53:47 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Wed Oct 21 09:55:20 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
 Thu Oct 22 09:55:57 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
+Fri Oct 23 09:50:29 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
