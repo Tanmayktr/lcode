@@ -263,3 +263,4 @@ Thu Oct 22 09:55:57 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; 
 Fri Oct 23 09:50:29 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Sat Oct 24 09:21:32 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Sun Oct 25 09:39:32 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
+Mon Oct 26 10:52:56 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
