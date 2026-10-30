@@ -267,3 +267,4 @@ Mon Oct 26 10:52:56 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwi
 Tue Oct 27 10:17:06 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Wed Oct 28 11:09:52 UTC 2026: int x = 10, y = 20; int maxVal = (x > y) ? x : y; cout << "Max is: " << maxVal;
 Thu Oct 29 11:22:41 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
+Fri Oct 30 11:15:00 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
