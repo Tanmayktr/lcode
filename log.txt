@@ -270,3 +270,4 @@ Thu Oct 29 11:22:41 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cou
 Fri Oct 30 11:15:00 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
 Sat Oct 31 10:47:53 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Sun Nov  1 11:44:40 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
+Mon Nov  2 13:16:41 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
