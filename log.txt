@@ -276,3 +276,4 @@ Wed Nov  4 12:51:02 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: "
 Thu Nov  5 12:59:13 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Fri Nov  6 12:47:12 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
 Sat Nov  7 11:35:48 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
+Sun Nov  8 11:47:56 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
