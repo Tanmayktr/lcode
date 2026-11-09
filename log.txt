@@ -277,3 +277,4 @@ Thu Nov  5 12:59:13 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwi
 Fri Nov  6 12:47:12 UTC 2026: #include <iostream> using namespace std; int main() { cout << "Hello World"; return 0; }
 Sat Nov  7 11:35:48 UTC 2026: struct Node { int data; Node* next; }; Node* head = new Node{10, NULL};
 Sun Nov  8 11:47:56 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
+Mon Nov  9 13:42:29 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
