@@ -282,3 +282,4 @@ Tue Nov 10 13:20:38 UTC 2026: #include <iostream> using namespace std; int main(
 Wed Nov 11 12:32:05 UTC 2026: int n = 7; if(n & 1) cout << "Odd number via bitwise check";
 Thu Nov 12 13:37:24 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/sizeof(arr[0]); cout << "Size: " << n;
 Fri Nov 13 12:55:31 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
+Sat Nov 14 11:58:57 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
