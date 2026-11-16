@@ -284,3 +284,4 @@ Thu Nov 12 13:37:24 UTC 2026: int arr[] = {1, 2, 3, 4, 5}; int n = sizeof(arr)/s
 Fri Nov 13 12:55:31 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Sat Nov 14 11:58:57 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: " << a << " " << b;
 Sun Nov 15 12:35:06 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
+Mon Nov 16 13:27:28 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
