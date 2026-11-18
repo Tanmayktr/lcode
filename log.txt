@@ -286,3 +286,4 @@ Sat Nov 14 11:58:57 UTC 2026: int a = 5, b = 10; swap(a, b); cout << "Swapped: "
 Sun Nov 15 12:35:06 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Mon Nov 16 13:27:28 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Reverse digits logic
 Tue Nov 17 14:12:04 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
+Wed Nov 18 13:43:44 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
