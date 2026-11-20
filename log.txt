@@ -288,3 +288,4 @@ Mon Nov 16 13:27:28 UTC 2026: while(n > 0) { cout << n % 10; n /= 10; } // Rever
 Tue Nov 17 14:12:04 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
 Wed Nov 18 13:43:44 UTC 2026: auto sum = [](int x, int y) { return x + y; }; cout << "Sum: " << sum(10, 20);
 Thu Nov 19 14:13:06 UTC 2026: for(int i=0; i<10; i++) { if(i%2==0) cout << i << " is even" << endl; }
+Fri Nov 20 13:54:05 UTC 2026: vector<int> v = {10, 20, 30}; v.push_back(40); cout << "Vector size: " << v.size();
